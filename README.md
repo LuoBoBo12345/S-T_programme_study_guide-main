@@ -66,8 +66,29 @@ Feel free to take a look if you want, but honestly it’s pretty self-study frie
 BTW, I would recommend the following book:
 1. University Physics with Modern Physics by Hugh D. Young and Roger A. Freedman
 
-2. If you’re looking for something at the domestic “Strong Foundation Program” level, I’d recommend Mechanics from the university Strong Base physics series by Jingwu Deng and Zhiming Xiao(《高校强基计划物理教程 力学》by 邓靖武，肖址敏). If you want something at competition level, then go for Cheng Jiafu’s Mechanics volume(《力学篇》by 程稼夫), ideally together with proper lecture courses https://www.bilibili.com/video/BV1br4y1F7Ty/.
+2. If you’re looking for something at the domestic “Strong Foundation Program” level（强基难度！！）, I’d recommend Mechanics from the university Strong Base physics series by Jingwu Deng and Zhiming Xiao(《高校强基计划物理教程 力学》by 邓靖武，肖址敏). If you want something at competition level（竞赛难度！！！）, then go for Cheng Jiafu’s Mechanics volume(《力学篇》by 程稼夫), ideally together with proper lecture courses https://www.bilibili.com/video/BV1br4y1F7Ty/.
 
 But honestly… if you’re just bored with nothing better to do—then sure, go ahead 😎
 
 Otherwise, seriously, just don’t touch it!!!
+
+
+# Basic C & Advanced C (Associate Professor: TAY Seng Chuan)
+I think that if your goal is simply to achieve a good grade, then carefully studying the notes in my folder and learning independently with the help of GPT would already be more than enough. In my opinion, computer science education during the bridging course feels more like studying a humanities subject, because most of the time you are learning syntax rather than algorithms. As long as you are willing to memorize the material and pay close attention to details, getting good results should not be a problem.
+
+However, I also feel that spending an entire year learning in only this way would be a waste of time. Since our seniors have already organized such detailed and comprehensive notes for us, our time should not be devoted entirely to memorization. Instead, we should focus on learning how to write code more elegantly and efficiently, how to think logically, and how to solve algorithmic problems. Those are the skills that truly matter in the long run and that will genuinely improve your ability as a programmer.
+
+Everything in this repository is mainly about syntax and fundamental programming concepts. Please read the materials according to the corresponding chapters. If you think there are any mistakes in my notes, feel free to ask GPT or discuss them with your classmates instead of asking me directly.
+
+As for algorithms, I would first recommend using Introduction to Algorithms by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein as a reference book. This book is often considered one of the most comprehensive and influential textbooks in computer science algorithms. It provides both theoretical foundations and practical approaches to algorithm design and analysis.
+
+For problem-solving practice, I would recommend the following websites:
+1. Luogu
+A very popular Chinese competitive programming platform with a huge collection of problems ranging from beginner to advanced difficulty levels.
+https://www.luogu.com.cn/
+2. Codeforces
+One of the most well-known competitive programming websites in the world. It is excellent for improving problem-solving skills and algorithmic thinking through contests and practice.
+https://codeforces.com/
+3. LeetCode
+A platform that focuses more on coding interviews and practical algorithm problems. It is especially useful for strengthening data structures and implementation skills.
+https://leetcode.com/
