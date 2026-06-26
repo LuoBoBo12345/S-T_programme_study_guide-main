@@ -13,10 +13,6 @@ int match(char *s1,char *s2)
         else if(s1[i]=='G') s3[i]='C';
     }
     s3[len1]='\0';
-    for(i=0;i<=len2-len1;i++)
-    {
-        if(strncmp(s3,s2+i,len1)==0)
-            return 1;
-    }
+    if(strstr(s2,s3)!=NULL) return 1;//看是否包含可以用strstr
     return 0;
 }
